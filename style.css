@@ -110,10 +110,10 @@ ul{
     color: rgb(124, 0, 0);
 }
 iframe{
-    margin-left: 250px;
-    margin-right: 250px;
-    margin-bottom: 35px;
+    margin-bottom: 40px;
     margin-top: 10px;
+    display: block;
+    margin: 0 auto;
 }
 @media(max-width:960px){
     body{
